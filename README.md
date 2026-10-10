@@ -3,21 +3,19 @@
                 
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dacchudarshan&label=Profile%20views&color=0e75b6&style=flat" alt="dacchudarshan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tippeshbh&label=Profile%20views&color=0e75b6&style=flat" alt="Tippeshbh" /> </p>
  
 ~ 👨🏻‍💻 i'm student!
 
-~ 👨‍💻 I’m currently working as a Software Engineer Intern at [*Algorithms365*](https://www.algorithms365.com)
+~ 👨‍💻 I’m currently working as a Software Engineer Intern at [*Algorithms365*](https://www.algorithms365.com) 
 
-~ 👨‍💻 I’m currently studying on Master Of Science (DATA SCIENCE)  
+~ 🌱 I’m currently learning java deveplement and  how to building projects
 
-~ 🌱 I’m currently learning System Design and Agentic AI 
-
-~ 📫 Reach out to me at kndarshan15@gmail.com
+~ 📫 Reach out to me at bhtippesh@gmail.com
 
 <h3 align="left">GitHub Stats:</h3> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dacchudarshan&" alt="dacchudarshan"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tippeshbh&" alt="Tippeshbh"  /></p>
 
 
 ## 🌐 Socials:
